@@ -46,13 +46,6 @@ A full-stack web app to digitize canteen operations — with user registration, 
 
 ---
 
-
-📈 **GitHub Stats**
-
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankarajput&show_icons=true&theme=radical)
-
----
-
 🌐 **Let’s Connect**
 
 [LinkedIn](https://www.linkedin.com/in/priyanka-kumari-183a15280/)
