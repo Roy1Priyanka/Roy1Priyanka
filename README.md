@@ -48,7 +48,7 @@ A full-stack web app to digitize canteen operations — with user registration, 
 
 🌐 **Let’s Connect**
 
-[LinkedIn](https://www.linkedin.com/in/priyanka-kumari-183a15280/)(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[LinkedIn](https://www.linkedin.com/in/priyanka-kumari-183a15280/)(https://www.bing.com/th/id/OIP.CaFd-W_iPSe8sqP9RbUaTAHaHa?w=150&h=150&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2)
 
 
 <!--
