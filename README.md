@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Priyanka Kumari
-Frontend Developer | Web Enthusiast | Learning Backend | CS Learner  
+Frontend Developer | Web Enthusiast | Learning Backend | IT Graduate
 
 🔹 **About Me**  
 Hi there! I'm Priyanka – a self-driven frontend developer passionate about creating clean, accessible, and user-friendly web applications.  
@@ -11,11 +11,11 @@ Always curious, I love exploring how things work behind the scenes, especially w
 
 🔧 **Tech Stack & Learning Journey**
 
-- **Frontend**: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap  
+- **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend (Learning)**: Node.js, Express  
-- **Databases**: MongoDB, MySQL, SQL  
-- **Languages**: JavaScript, Java, Python, C++  
-- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Docker (basics), Firebase (basics), Linux  
+- **Databases**: MongoDB,  SQL  
+- **Languages**: JavaScript, Java, Python,  
+- **Tools & Platforms**: Git, GitHub, VS Code, Docker (basics), Firebase (basics) 
 
 📚 **Currently Learning**: Backend Development • REST APIs • Deployment with Docker • System Design
 
@@ -33,19 +33,16 @@ Always curious, I love exploring how things work behind the scenes, especially w
 🚀 **Projects I'm Proud Of**
 
 ### 🛒 Bloom & Blossom – Flower Shop Website  
-A beautifully designed e-commerce flower store showcasing floral collections with dynamic product pages.  
-**Tech**: HTML • CSS • JavaScript  
-🔗 [Live Site](#) | [GitHub Repo](#)
+A beautifully designed e-commerce flower store showcasing floral collections with dynamic product pages.   
+🔗 [GitHub Repo](https://github.com/Roy1Priyanka/Bloom-Blossom-flower-website)
 
 ### 👗 Fashionista – Clothing Store  
 A modern clothing e-commerce interface with product filtering, categories, and cart functionality.  
-**Tech**: React • Tailwind CSS • Firebase  
-🔗 [Live Site](#) | [GitHub Repo](#)
+🔗  [GitHub Repo](https://github.com/Roy1Priyanka/E-commerce-website)
 
 ### 🍽️ Canteen Management System  
 A full-stack web app to digitize canteen operations — with user registration, order placing, and admin dashboard.  
-**Tech**: React • Node.js • MongoDB • Express  
-🔗 [Live Site](#) | [GitHub Repo](#)
+🔗  [GitHub Repo](https://github.com/Roy1Priyanka/Canteen_Management)
 
 ---
 
@@ -58,7 +55,7 @@ A full-stack web app to digitize canteen operations — with user registration, 
 
 🌐 **Let’s Connect**
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](#) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/priyanka-kumari-183a15280/)
 
 
 <!--
