@@ -1,5 +1,8 @@
-                                                                                                                     ## Hi 👋 I'm Priyanka Kumari
-                                                                                                    Frontend Developer | Web Enthusiast | Learning Backend | IT Graduate
+<p align="center">
+  <h1>Hi 👋 I'm Priyanka Kumari</h1>
+  <b>Frontend Developer | Web Enthusiast | Learning Backend | IT Graduate</b>
+</p>
+
 
 🔹 **About Me**  
 Hi there! I'm Priyanka – a self-driven frontend developer passionate about creating clean, accessible, and user-friendly web applications.  
